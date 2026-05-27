@@ -1,0 +1,7 @@
+data/ (raw/, processed/)
+notebooks/
+src/ (etl/, models/, utils/)
+reports/
+docs/
+tests/
+README.md
